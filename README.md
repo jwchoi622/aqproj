@@ -1,4 +1,7 @@
 # Air Quality Index Web Application with Django
+
+![Website Top](websitetop.png)
+![Website Bottom](websitebottom.png)
 ## Overview
 This project is a Django-based web application designed to provide up to date air quality information for any city in the world. I used the AQICN API to get the air quality data and Leaflet to get the map on the website. Lastly I used PythonAnywhere to deploy the application. The application is accessible at [https://jwchoi622.pythonanywhere.com](https://jwchoi622.pythonanywhere.com). 
 ## Features
